@@ -19,8 +19,13 @@ This package produces the following:
 
 ### Build options
 
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
+- gulp clean
+- gulp serve
+- gulp bundle
+- gulp package-solution
+
+### Credits
+
+For the update of the react version used in the generated project:
+
+https://www.skylinetechnologies.com/Blog/Skyline-Blog/May_2019/using-react-hooks-sharepoint-framework-spfx

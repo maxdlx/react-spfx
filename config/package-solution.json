@@ -2,7 +2,7 @@
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
     "name": "react-spfx-client-side-solution",
-    "id": "92758b97-c6c1-4001-aa4b-b5c04498eb65",
+    "id": "e1804708-44ee-4b33-b0be-82b0409e2e45",
     "version": "1.0.0.0",
     "includeClientSideAssets": true
   },

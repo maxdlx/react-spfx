@@ -19,27 +19,8 @@ This package produces the following:
 
 ### Build options
 
-- gulp clean
-- gulp serve
-- gulp bundle
-- gulp package-solution
-
-### Upgrade React version
-
-1. Package updates: I use `npx npm-upgrade` for that <br>
-https://github.com/maxdlx/react-spfx/commit/0625e0a1a9d576fc1a48baa211f50b837f0a4375
-
-2. Install peer dependency to use a newer typescript compiler <br>
-`npm i @microsoft/rush-stack-compiler-3.7`
-
-3. Deliver our own version of react instead of using the one from SharePoint online: <br>
-https://github.com/maxdlx/react-spfx/commit/44e8da30d72cee2de69286ddd7b96ae485196902
-
-4. Use a hook! Functional components required, of course: <br>
-https://github.com/maxdlx/react-spfx/commit/8618c6f71e599230b3b028ca992057d7aa3be6f7?diff=split
-
-### Credits
-
-For the update of the react version used in the generated project:
-
-https://www.skylinetechnologies.com/Blog/Skyline-Blog/May_2019/using-react-hooks-sharepoint-framework-spfx
+gulp clean - TODO
+gulp test - TODO
+gulp serve - TODO
+gulp bundle - TODO
+gulp package-solution - TODO
